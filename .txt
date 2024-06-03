@@ -1,3 +1,0 @@
-
-
-mongodb+srv://dilshand3:d3_priynka_jonas@cluster0.rblgrib.mongodb.net
